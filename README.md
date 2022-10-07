@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Mineh</h1>
 <h3 align="center">I'm a full stack software engineer based in Los Angeles.</h3>
 
-- 🔭 I’m currently working on [Picstagram](https://github.com/Mineh222/Picstagram)
+- 🔭 I’m currently working on: [Picstagram](https://github.com/Mineh222/Picstagram)
 
-- 📫 How to reach me **minehgharabegi@gmail.com**
+- 📫 How to reach me: **minehgharabegi@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1U1FFa_8QGIZ06uBLj7zRj74qPL7gB2GaQdcvnydMzN4/edit?usp=sharing](https://docs.google.com/document/d/1U1FFa_8QGIZ06uBLj7zRj74qPL7gB2GaQdcvnydMzN4/edit?usp=sharing)
+- 📄 Know about my experiences: [resume](https://docs.google.com/document/d/1MOYY2rn5X7Epd_f3jbUzW4GUPni5w1qf_4s5aSZx0jM/edit?usp=sharing)
 
-- ⚡ Fun fact **I love animals!**
+- ⚡ Fun fact: **I love animals!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
