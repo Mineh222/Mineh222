@@ -5,7 +5,7 @@
 
 - 📫 How to reach me: **minehgharabegi@gmail.com**
 
-- 📄 Know about my experiences: [resume](https://docs.google.com/document/d/1MOYY2rn5X7Epd_f3jbUzW4GUPni5w1qf_4s5aSZx0jM/edit?usp=sharing)
+- 📄 Know about my experiences: [Portfolio](https://minehgharabegi.live/)
 
 - ⚡ Fun fact: **I love animals!**
 
